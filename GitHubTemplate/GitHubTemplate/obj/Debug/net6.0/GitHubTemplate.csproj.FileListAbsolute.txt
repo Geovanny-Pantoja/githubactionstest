@@ -1,0 +1,15 @@
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\bin\Debug\net6.0\GitHubTemplate.exe
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\bin\Debug\net6.0\GitHubTemplate.deps.json
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\bin\Debug\net6.0\GitHubTemplate.runtimeconfig.json
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\bin\Debug\net6.0\GitHubTemplate.dll
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\bin\Debug\net6.0\GitHubTemplate.pdb
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\obj\Debug\net6.0\GitHubTemplate.csproj.AssemblyReference.cache
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\obj\Debug\net6.0\GitHubTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\obj\Debug\net6.0\GitHubTemplate.AssemblyInfoInputs.cache
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\obj\Debug\net6.0\GitHubTemplate.AssemblyInfo.cs
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\obj\Debug\net6.0\GitHubTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\obj\Debug\net6.0\GitHubTemplate.dll
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\obj\Debug\net6.0\refint\GitHubTemplate.dll
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\obj\Debug\net6.0\GitHubTemplate.pdb
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\obj\Debug\net6.0\GitHubTemplate.genruntimeconfig.cache
+C:\Users\Geovanny Pantoja\source\repos\githubactions\GitHubTemplate\GitHubTemplate\obj\Debug\net6.0\ref\GitHubTemplate.dll
